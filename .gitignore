@@ -4,4 +4,7 @@
 !*/
 # Don't ignore .gitignore and the scripts folder.
 !*.gitignore
-!*Assets/Scripts/
+!Assets/Scripts/*
+!Assets/Scripts/Enemy/*
+!Assets/Scripts/Managers/*
+!Assets/Scripts/Player/*
